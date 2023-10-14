@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-container {
+    height: 100vh;
+    width: 50%;
+    margin-left: 0;
+    /* background-color: aqua; */
+}
+
+.right-container {
+    height: 100vh;
+    width: 50%;
+    /* background-color: blanchedalmond; */
+}
+
+.right-container>img {
+    height: 90vh;
+    width: 90%;
+}
+
+.homebtn {
+    height: 50px;
+    width: 200px;
+    background-color: rgb(255, 140, 0);
+    color: black;
+    border: 5px solid rgb(255, 140, 0);
+    border-radius: 35px;
+}

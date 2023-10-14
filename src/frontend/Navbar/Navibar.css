@@ -1,0 +1,17 @@
+#navHeader {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: transparent;
+    /* background-color: white; */
+}
+
+#lihover:hover {
+    color: rgb(255, 140, 0);
+}
+
+.CUbtn {
+    background-color: rgb(255, 140, 0);
+    color: black;
+    border: 2px solid rgb(255, 140, 0);
+    /* margin-right: 100px; */
+}
