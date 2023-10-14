@@ -29,3 +29,31 @@
     border: 5px solid rgb(255, 140, 0);
     border-radius: 35px;
 }
+
+.counter {
+    background-color: rgb(41, 112, 91);
+    color: white;
+}
+
+.aboutus {
+    display: flex;
+    flex-direction: row;
+}
+
+.lc {
+    height: 100vh;
+    width: 50%;
+    margin-left: 0;
+    /* background-color: aqua; */
+}
+
+.rc {
+    height: 100vh;
+    width: 50%;
+    /* background-color: blanchedalmond; */
+}
+
+.lc>img {
+    height: 90vh;
+    width: 90%;
+}
